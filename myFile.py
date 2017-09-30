@@ -1,3 +1,8 @@
 
-print('this is a test')
+def main(msg):
+    print("yoo")
+
+
+def secondary(msg):
+    print('Another one')
 
