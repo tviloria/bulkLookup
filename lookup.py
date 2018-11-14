@@ -1,9 +1,7 @@
 from ipaddress import ip_network, ip_address
 import socket
 
-# A script to determine whether certain domains run through DOSarrest(VIPv4 ranges) or not.
-
-#Dosarrest VIPv4 ranges
+# A script to determine whether certain domains run through an organization.
 
 DOA_Cidr1 = ip_network('CIDR RANGE')
 DOA_Cidr2 = ip_network('CIDR RANGE')
